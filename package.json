@@ -1,0 +1,26 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "ExpressJS Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server",
+    "start": "node server.js"
+  },
+  "author": "Albert Bautista",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilarms83/week11-expressjs_note_taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devilarms83/week11-expressjs_note_taker/issues"
+  },
+  "homepage": "https://github.com/devilarms83/week11-expressjs_note_taker#readme"
+}
