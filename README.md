@@ -60,6 +60,15 @@
     - GET /api/notes should read the db.json file and return all saved notes as JSON.
     - POST /api/notes should receive a new note to save on the request body, add it to the db.json file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into npm packages that could do this for you).
   
+  What the main menu should look like:
+
+  ![Main Menu Image](./readmeIMG/wk11-mainmenu.png)
+  
+  What the generated notes looks like:
+  
+  ![Notes Image](./readmeIMG/wk11-notes.png)
+  
+  Here's a link to the herokuapp: [heroku app](https://notetakerwk11-app.herokuapp.com/).  
   
   ## [License](#table-of-contents)
 
